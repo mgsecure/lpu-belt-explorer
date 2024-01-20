@@ -22,7 +22,7 @@
 ,"Burg Wächter ""Yacht"" 460 Ni 40","Brinks House Key","ACE Brass Padlock (38mm or larger)","Burg Wächter Diamant","Bricard Supersureté","Bricard Chifral (all versions, fully pinned)","EVVA 3KS / EVVA 3KS+ / EVVA 4KS (without false gates or 1-3 mastered sliders)","BKS Janus (14 or more pins)"
 ,Börkey,"Burg Wächter Boccia","ACE Laminated padlock (44mm or larger)","Burg Wächter Gamma 700 (non-removable core)","Burg Wächter Alpha 800","Cavers Cavith","EVVA Dual (>4 mastered elements)","Bowley Door Lock"
 ,Citadel,"CES KB","American Lock 1100 / A1100","Cantol high-security line  (10-pin dimple)","Capitol magnetic cam lock","Clavis T-20 (<15 pins)","EVVA ICS (>2 mastered elements)","Chubb ""Definitive"" (Standard mortise, 5 lever)"
-,"Dulimex DX","CES PS5","American Lock 1160 (1100 but with 6 pin stacks)","Chubb 114 (3g114) (5 lever, pre-2004)","CAVEO TS007 Exterior","Codkey Locksys (≥15 pins)","FAB NZS3","Chubb ""Definitive"" (jewellery box (steel comb leaf spring))"
+,"Dulimex DX","CES PS5","American Lock 1160 (1100 but with 6 pin stacks)","Chubb 114 (3g114) (5 lever, pre-2004)","CAVEO TS007 Exterior","Codkey Locksys (≥15 pins)","FAB NZS3","Chubb ""Definitive"" (jewelry box (steel comb leaf spring, pin or pipe key))"
 ,"Eagle 37110","CES WM 5","American Lock 2000 puck lock","Chubb 114e (3g114e) (5 lever, after 2004)","CEI ""Five Colors""","DOM ix 10 (with shark fins)","Fichet 450 / Fichet 484 (w/ false gates, 2-3 mastered levers)","Chubb 6K174 Isolator"
 ,"Egret 5-pin padlock","CES WZ","American Lock 5200","Chubb 2m22 (6 lever)","Chubb Battleship (6 lever, offset key)","DOM ix 10 kg","Fontaine Dynaxis","Clavis F-22"
 ,"ERA Mortice (2 lever)","CISA 220/50","American Lock Clone","Chubb Cruiser (5 lever)","Chubb Biaxial","DOM System D","FTH Thirard Surveyor","Clavis Q-18"
@@ -69,10 +69,10 @@
 ,,,"ERA Viscount (5 lever)","Kenaurd Dimple (pin-in-pin, 5 pins)","M&C Matrix","Schlage Primus / Schlage Everest Primus",,"Mottura Champions C43 / Mottura Champions C44 / Mottura Champions C48"
 ,,,"EVVA FPS","Kryptonite Disk Detainer","Magnum Atlantic","Scorpion CX-5 / Marks High Security Lock",,"Mul-T-Lock MT5+ / Mul-T-Lock 800 / Lockwood MT5 / IKON R10 (not mastered)"
 ,,,"EVVA Standardcylinder (Normalprofil)","Lince C4","Master Lock #19","Securemme Evo K64",,"NATO Mersey (10 lever, pre-1973)"
-,,,"EVVA TSC","Lockwood 334B45 (with spools)","Medeco Original Camlock (5+ pins ******)","U-Shin Showa NX (<13 pins)",,"NATO Mersey (14 lever)"
+,,,"EVVA TSC","Lockwood 214A40 / Lockwood 215A40 / Lockwood 270S70 / Lockwood 334B45 / Lockwood 356S63 (with spools)","Medeco Original Camlock (5+ pins ******)","U-Shin Showa NX (<13 pins)",,"NATO Mersey (14 lever)"
 ,,,"FAB 200RS","Lockwood V7","Medeco Original / Medeco Biaxial / Medeco M3 (5+ pins ******)","Vachette Radial NT / Vachette Radial NT+ (<13 pins)",,"Opnus Memolis"
 ,,,"Federal Lock 5Y3110","Lucznik E8","Mindy Pagoda AF 16-50 (flat key)","Van Lock",,"Opnus MMXII"
-,,,"Federal Lock 6Y3110","Lucznik LC","MIWA Magnetic Camlock","VSR 3-row",,"Robur Disc Detainer SDB lock"
+,,,"Federal Lock 6Y3110","Lucznik LC","MIWA Magnetic Camlock","VSR 3-row",,"Robur Disc Detainer Safe Deposit Lock"
 ,,,"FJM Padlock","M&C Color / M&C Color Pro / M&C Color+ (<4 sliders)",MLock,"Walsall Locks 2000 (5 lever)",,"Rosengrens 32A81S / Rosengrens 32C81P (triangular central posts and many false gates)"
 ,,,"Gege ANS-2","M&C Matrix (no sidebar)","Mottura 3D Key","WEST 916 / WEST 955",,"Ruko Combi 2 / Ruko Garant 10 / FAB Variant (6 pin with 5 finger pins)"
 ,,,"Gege AP 1000","Mauer Red Line G","Mottura Champions C38 (*******)","Winkhaus X-Tra (<9 pins)",,"Sargent Keso"
@@ -93,8 +93,8 @@
 ,,,"Kenaurd (pin-in-pin, 4 pins)","PACLOCK PL410","Ruko Combi 900",,,
 ,,,"Kryptonite 6-pin padlock","Pisla 860","Sargent Signature",,,
 ,,,"Lockwood 120/40","Ruko R501","Schlage Everest 29SL",,,
-,,,"Lockwood 214A40 / Lockwood 215A40 / Lockwood 270S70 / Lockwood 334B45 / Lockwood 356S63 (tapered/beveled drivers)","SEA slider lock","Securemme K5",,,
-,,,"Lockwood 234B45","Securemme K22","Sepa HDS",,,
+,,,"Lockwood 234B45","SEA slider lock","Securemme K5",,,
+,,,"Lockwood 334B45 (tapered/beveled drivers)","Securemme K22","Sepa HDS",,,
 ,,,"MAKO 425","Securit S20##","TESA T80 / TESA TX80",,,
 ,,,"MAKO 427","Takigen 10-pin","TESA TK100",,,
 ,,,"Master Lock 410 LOTO (Lockout Tagout)","TESA T60","Titan T250",,,
