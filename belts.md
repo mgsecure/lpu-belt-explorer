@@ -94,8 +94,8 @@ Both photos and videos of your picking accomplishment are accepted for this rank
 - [Any Cutaway Lock](https://lpubelts.com/?id=901b35b2)
 - [Any lock with any tool](https://lpubelts.com/?id=b22bdd44)
 - [ABUS 45](https://lpubelts.com/?id=5ff7457c) (laminated padlock)
-- [Alpha 1000](https://lpubelts.com/?id=9423b4a4) (10mm (2pins))
-- [Alpha 1000](https://lpubelts.com/?id=d000f733) (15mm up to 35mm (3pins))
+- [ALPHA 1000](https://lpubelts.com/?id=9423b4a4) (10mm (2pins))
+- [ALPHA 1000](https://lpubelts.com/?id=d000f733) (15mm up to 35mm (3pins))
 - [Brinks R80 disk lock](https://lpubelts.com/?id=a8c9aa08)
 - [Br&uuml;der Mannesmann Brass Padlocks](https://lpubelts.com/?id=8cb1a776) (&lt;50mm (&lt;5pins))
 - [Generic/Unknown 1 or 2 Lever Cabinet lock](https://lpubelts.com/?id=5dc117cd)
@@ -134,17 +134,17 @@ Both photos and videos of your picking accomplishment are accepted for this rank
 - [ABUS 64Ti/30](https://lpubelts.com/?id=693abee0) (30mm or smaller (&lt;5 pins))
 - [ABUS 65/35](https://lpubelts.com/?id=1ce31c29) (35mm or smaller)
 - [ABUS 84/35](https://lpubelts.com/?id=805fc883)
-- [ABUS MyLock](https://lpubelts.com/?id=423dbebe)
+- [ABUS MyLock / T65AL](https://lpubelts.com/?id=423dbebe)
 - [ABUS Nautic T84MB/40](https://lpubelts.com/?id=9d830052)
 - [ACE Laminated padlock](https://lpubelts.com/?id=abdf3acd) (40mm or larger)
-- [Alpha 1000](https://lpubelts.com/?id=82ea52a4) (40mm up to 45mm (4pins / spools))
+- [ALPHA 1000](https://lpubelts.com/?id=82ea52a4) (40mm up to 45mm (4pins / spools))
 - [American Lock 5200](https://lpubelts.com/?id=a0d1bf97) (bump stop model: all standards + 1 anti-bump pin)
 - [ARFE](https://lpubelts.com/?id=a1581afe)
 - [Befa](https://lpubelts.com/?id=32244161)
 - [Braslock](https://lpubelts.com/?id=d6d43c00)
-- [Brinks 44mm laminated padlock](https://lpubelts.com/?id=9215a45f) (Weatherproof or not)
 - [Brinks Brass Padlocks](https://lpubelts.com/?id=58307da0)
-- [Br&uuml;der Mannesmann Brass Padlocks](https://lpubelts.com/?id=1cad075e) (50mm or larger (5 pins))
+- [Brinks laminated padlock](https://lpubelts.com/?id=9215a45f) (40mm or larger, Weatherproof or not)
+- [Br&uuml;der Mannesmann Brass Padlocks](https://lpubelts.com/?id=1cad075e) (50mm or larger (&ge;5 pins))
 - [BSS](https://lpubelts.com/?id=50fbf666)
 - [Burg W&auml;chter &quot;Alutitan&quot; 770 40](https://lpubelts.com/?id=4d7dd1a0)
 - [Burg W&auml;chter &quot;C-Line&quot; 222 40](https://lpubelts.com/?id=6ca3420d)
@@ -209,7 +209,7 @@ Those security pins designed to keep you out are powerless against you. You're s
 - [ABUS 54TI/50 Titalium](https://lpubelts.com/?id=16e9d2ab)
 - [ABUS 55/40](https://lpubelts.com/?id=632f4069) (40mm or larger)
 - [ABUS 60/50](https://lpubelts.com/?id=d7188e81)
-- [ABUS 64Ti Titalium](https://lpubelts.com/?id=52f1e117) (40mm or larger (5+ pins))
+- [ABUS 64Ti Titalium](https://lpubelts.com/?id=52f1e117) (40mm or larger (&ge;5 pins))
 - [ABUS 65/40](https://lpubelts.com/?id=a0e50505)
 - [ABUS 83/40](https://lpubelts.com/?id=3653f376)
 - [ABUS 85](https://lpubelts.com/?id=683e4f33)
@@ -222,7 +222,7 @@ Those security pins designed to keep you out are powerless against you. You're s
 - [ABUS EC75 75/30](https://lpubelts.com/?id=2484ce70)
 - [ABUS Monobloc](https://lpubelts.com/?id=204d85a7)
 - [ABUS Ti12 Titalium](https://lpubelts.com/?id=1050a58c)
-- [Alpha 1000](https://lpubelts.com/?id=bac43ba7) (50mm 60mm (5pins / spools))
+- [ALPHA 1000](https://lpubelts.com/?id=bac43ba7) (50mm 60mm (5pins / spools))
 - [BASI CO](https://lpubelts.com/?id=aa15b066)
 - [BASI ST](https://lpubelts.com/?id=7b4ce02a)
 - [Brinks House Key](https://lpubelts.com/?id=d49f60fe)
@@ -271,7 +271,8 @@ Those security pins designed to keep you out are powerless against you. You're s
 - [Yale 125/40](https://lpubelts.com/?id=0f0dcd42)
 - [Yale 5 lever sashlock](https://lpubelts.com/?id=fb3daa70) (5 Lever)
 - [Yale Mortise](https://lpubelts.com/?id=db1040e5)
-- [Yale Y110/40](https://lpubelts.com/?id=98a2ba2d)
+- [Yale Y110 series brass padlock](https://lpubelts.com/?id=98a2ba2d) (all formats 40mm or larger (includes Y113 and Y114, excludes iron body disc detainer Y112))
+- [Yale Y120 series brass padlock](https://lpubelts.com/?id=ea6539c8) (all formats)
 
 
 
@@ -315,6 +316,7 @@ process. Remember, [vertical video hurts](https://www.youtube.com/watch?v=dechvh
 - [ABUS C73 / ABUS C83 / ABUS C90](https://lpubelts.com/?id=85d93eb1) (new pinning: security keypins + serrated and spooled t-pins)
 - [ABUS D6](https://lpubelts.com/?id=f97700ff)
 - [ABUS EC750 / ABUS EC850](https://lpubelts.com/?id=cf5bd73b) (spool pin version, not 700/800)
+- [ABUS GDS](https://lpubelts.com/?id=13b06cba) (with trees and tapered pins)
 - [ABUS Integral / ABUS Pfaffenhain Integral](https://lpubelts.com/?id=8606220a)
 - [ABUS Magtec 1500](https://lpubelts.com/?id=5c5a2309)
 - [ABUS Pfaffenhain Standard](https://lpubelts.com/?id=f488f48e)
@@ -347,6 +349,7 @@ process. Remember, [vertical video hurts](https://www.youtube.com/watch?v=dechvh
 - [BKS 88](https://lpubelts.com/?id=135ef1c0)
 - [BKS Detect 3](https://lpubelts.com/?id=ec0a2659) (no active sidebar)
 - [BKS Helius](https://lpubelts.com/?id=4bc2b65a)
+- [Brady SafeKey](https://lpubelts.com/?id=e957e0d6)
 - [Bricard Serial](https://lpubelts.com/?id=3b26e53c)
 - [Burg W&auml;chter Atlantic](https://lpubelts.com/?id=14f021bb)
 - [Burg W&auml;chter Karat](https://lpubelts.com/?id=bd9dc1e4)
@@ -364,7 +367,7 @@ process. Remember, [vertical video hurts](https://www.youtube.com/watch?v=dechvh
 - [Corona M](https://lpubelts.com/?id=6b472dc2)
 - [Digby Lock and Tool Bravo](https://lpubelts.com/?id=19573781)
 - [DOM ix 5 HT](https://lpubelts.com/?id=a165bc09)
-- [DOM IX 5 N](https://lpubelts.com/?id=04970fee)
+- [DOM ix 5 N](https://lpubelts.com/?id=04970fee)
 - [DOM RS 5](https://lpubelts.com/?id=5241369e)
 - [DOM SC](https://lpubelts.com/?id=05979a42)
 - [DOM SV](https://lpubelts.com/?id=95b2c7b0)
@@ -381,7 +384,7 @@ process. Remember, [vertical video hurts](https://www.youtube.com/watch?v=dechvh
 - [Federal Lock 6Y3110](https://lpubelts.com/?id=e98b5ae7)
 - [FJM Padlock](https://lpubelts.com/?id=639c4f0b)
 - [Gege ANS-2](https://lpubelts.com/?id=92f98042)
-- [Gege AP 1000](https://lpubelts.com/?id=3129ee7e)
+- [Gege AP 1000 / Alfa  &quot;AP 1000&quot;](https://lpubelts.com/?id=3129ee7e)
 - [Generic/Unknown 4 Lever Curtained lock](https://lpubelts.com/?id=0e97c099)
 - [Generic/Unknown 4 Lever Uncurtained lock](https://lpubelts.com/?id=d46ac711)
 - [Guett Dern](https://lpubelts.com/?id=3316c7d0)
@@ -423,10 +426,12 @@ process. Remember, [vertical video hurts](https://www.youtube.com/watch?v=dechvh
 - [Sargent Mortise](https://lpubelts.com/?id=4071176d) (standard pins)
 - [Sargent Mortise](https://lpubelts.com/?id=8f3f18d8) (with security pins)
 - [Schlage Everest](https://lpubelts.com/?id=ea1d1d8c)
+- [Solon Super-Lock Company Nix Pix](https://lpubelts.com/?id=2e5eeddb)
 - [Squire 440](https://lpubelts.com/?id=44bdfa06) (4 lever, pipe key)
 - [Tokoz Beta](https://lpubelts.com/?id=5260b396)
 - [Unity Disc Detainer Padlock](https://lpubelts.com/?id=06353788)
 - [Vachette Standard cylinder](https://lpubelts.com/?id=4f0fbb3f)
+- [Viro Palladium PV](https://lpubelts.com/?id=9b7d3001)
 - [Wetzel Pfaffenhain](https://lpubelts.com/?id=ba627c40)
 - [Wilka 1400](https://lpubelts.com/?id=8cc092f5) (6 pin)
 - [Wilka 3600](https://lpubelts.com/?id=736386f4)
@@ -484,10 +489,12 @@ your lock in the picking video. Please read more below for filming requirements.
 - [ABUS D10](https://lpubelts.com/?id=f96de7cc)
 - [ABUS E20 / ABUS E30 / ABUS E60 / ABUS E70 / ABUS E90](https://lpubelts.com/?id=5c0d870b)
 - [ABUS EC750 / ABUS EC850](https://lpubelts.com/?id=3515caae) (serrated pin version, not 700/800)
+- [ABUS GDS](https://lpubelts.com/?id=3df9c95f) (with barrels)
 - [ABUS KV14 / ABUS KY14](https://lpubelts.com/?id=fe84cc3c)
 - [ABUS KW14](https://lpubelts.com/?id=4382d650)
 - [ABUS S6+](https://lpubelts.com/?id=f93c57fc)
 - [ABUS XP1](https://lpubelts.com/?id=34c0dfe4)
+- [ALPHA Z cam lock](https://lpubelts.com/?id=3ebbc1f4)
 - [Ankerslot Infinity](https://lpubelts.com/?id=d20fb493) (without magnet)
 - [ASSA 500](https://lpubelts.com/?id=f8445741) (with barrel drivers and matched sleeve)
 - [ASSA 500 / ASSA Flexcore/Flexcore Plus](https://lpubelts.com/?id=d9e3829f) (5 pin with barrels and matched countermilling)
@@ -531,7 +538,7 @@ your lock in the picking video. Please read more below for filming requirements.
 - [Fontaine](https://lpubelts.com/?id=7786832f)
 - [Gege AP2000](https://lpubelts.com/?id=8ad6939a)
 - [Gege AP3000](https://lpubelts.com/?id=0037a89f)
-- [Gege pExtra](https://lpubelts.com/?id=aa7fc00e) (5 pin)
+- [Gege pExtra / Alfa &quot;pExtra&quot;](https://lpubelts.com/?id=aa7fc00e) (5 pin)
 - [GOAL S](https://lpubelts.com/?id=959a6b9d) (5 pins)
 - [Guard NVL](https://lpubelts.com/?id=62bdbd5e)
 - [IKON P031](https://lpubelts.com/?id=d1896bf9) (N6 profile)
@@ -547,14 +554,13 @@ your lock in the picking video. Please read more below for filming requirements.
 - [Kenaurd Dimple](https://lpubelts.com/?id=54dc69e8) (pin-in-pin, 5 pins)
 - [Kryptonite Disk Detainer](https://lpubelts.com/?id=c8c0ee06)
 - [Lince C4](https://lpubelts.com/?id=adc2d335)
-- [Lockwood 214A40 / Lockwood 215A40 / Lockwood 270S70 / Lockwood 334B45 / Lockwood 356S63](https://lpubelts.com/?id=331c9d36) (with spools)
+- [Lockwood 334B45 / Lockwood 356S63 / Lockwood 214A40 / Lockwood 215A40 / Lockwood 270S70](https://lpubelts.com/?id=331c9d36) (with spools)
 - [Lockwood V7](https://lpubelts.com/?id=f6b001ed)
 - [Lucznik E8](https://lpubelts.com/?id=17270f9c)
 - [Lucznik LC](https://lpubelts.com/?id=1c01212e)
 - [M&amp;C Color / M&amp;C Color Pro / M&amp;C Color+](https://lpubelts.com/?id=1fe0ba0d) (&lt;4 sliders)
 - [M&amp;C Matrix](https://lpubelts.com/?id=bc6f6e7c) (no sidebar)
 - [Mauer Red Line G](https://lpubelts.com/?id=2a02810c)
-- [Mauer Red Line GM](https://lpubelts.com/?id=0a70d67f)
 - [MCM AS6](https://lpubelts.com/?id=72675596)
 - [Medeco Biaxial](https://lpubelts.com/?id=23c7988c) (4 pins)
 - [Medeco BiLevel](https://lpubelts.com/?id=69d4ef86)
@@ -565,15 +571,15 @@ your lock in the picking video. Please read more below for filming requirements.
 - [MIWA DS](https://lpubelts.com/?id=df8081fa)
 - [Mottura Champions C28 / Mottura Champions C29](https://lpubelts.com/?id=b1834e81)
 - [Mul-T-Lock Classic](https://lpubelts.com/?id=0418a174) (standard drivers)
-- [Mul-T-Lock Classic / Mul-T-Lock Interactive](https://lpubelts.com/?id=aec0c82d) (4 pins, spooled drivers)
+- [Mul-T-Lock Classic / Mul-T-Lock Interactive](https://lpubelts.com/?id=aec0c82d) (4 pins, 4 spooled drivers)
+- [Mul-T-Lock Classic / Mul-T-Lock Interactive](https://lpubelts.com/?id=a0ec1618) (5 pins, 3 or fewer spooled drivers)
 - [Mul-T-Lock Integrator](https://lpubelts.com/?id=6e0bfdd2)
 - [PACLOCK 90A Pro](https://lpubelts.com/?id=fb5a9eb7)
 - [PACLOCK PL410](https://lpubelts.com/?id=74c225d1)
 - [Pisla 860](https://lpubelts.com/?id=ca6f4eaf)
 - [Ruko R501](https://lpubelts.com/?id=6dc539dd)
-- [SEA slider lock](https://lpubelts.com/?id=842165cc)
-- [Securemme K22](https://lpubelts.com/?id=ccd19ba8)
 - [Securit S20##](https://lpubelts.com/?id=0a12f032)
+- [Stanley Vidmar SEA SL-10 / Ezcurra SEA 23 / Ezcurra SEA 3 / SEA Locking System (Original)](https://lpubelts.com/?id=842165cc)
 - [Takigen 10-pin](https://lpubelts.com/?id=b0d2e04c)
 - [TESA T60](https://lpubelts.com/?id=8b5b655e)
 - [Tokoz Tech](https://lpubelts.com/?id=35330d19)
@@ -585,9 +591,9 @@ your lock in the picking video. Please read more below for filming requirements.
 - [Winkhaus N-Tra](https://lpubelts.com/?id=2c9d12fc)
 - [Winkhaus Titan](https://lpubelts.com/?id=fe088de0)
 - [Yale 2100](https://lpubelts.com/?id=7164f69d)
-- [Yale 500 series](https://lpubelts.com/?id=779e7dcb)
+- [Yale 500](https://lpubelts.com/?id=779e7dcb)
 - [Yale KM 1 star Superior](https://lpubelts.com/?id=c1e91978)
-- [Yale Superior / Milencio Magnum](https://lpubelts.com/?id=30a4fef5) (&lt;7 pins)
+- [Yale Superior / Yale Platinum / Milencio Magnum](https://lpubelts.com/?id=30a4fef5) (&lt;7 pins)
 
 ** Blue if picked to one shearline. Check the SFIC filming requirements in the [Reddit belt ranking page](https://www.reddit.com/r/lockpicking/wiki/beltranking/#wiki_sfic_filming_requirements).
 
@@ -634,18 +640,17 @@ your lock in the picking video. Please read more below for filming requirements.
 - [Anchor Las Disc Detainer](https://lpubelts.com/?id=bbce33e0)
 - [ASEC BS Sash lock](https://lpubelts.com/?id=23919b4e) (5 lever)
 - [ASSA 500 / Ruko 500](https://lpubelts.com/?id=ef221c67) (5 pin stacks, gin drivers and matching sleeve)
-- [ASSA 600 / ASSA Max+ Restricted](https://lpubelts.com/?id=45e3cde7) (Barrel spools and matching countermilling)
+- [ASSA 600 / ASSA Max+ Restricted / Ruko 600](https://lpubelts.com/?id=45e3cde7) (Barrel spools and matching countermilling)
 - [ASSA Desmo](https://lpubelts.com/?id=039a239f) (6 sliders)
 - [ASSA Desmo](https://lpubelts.com/?id=e2742f70) (8 sliders, 1-3 mastered)
 - [ASSA Guideline](https://lpubelts.com/?id=122b5621) (6 pin with active side pins)
 - [Australian Lock Co. BiLock](https://lpubelts.com/?id=f70b9b33) (12 sliders, 7-8 mastered)
 - [Australian Lock Co. BiLock](https://lpubelts.com/?id=1ca633a8) (8 sliders, 3-4 mastered)
-- [Avocet ABS](https://lpubelts.com/?id=f3666121)
+- [Avocet ABS / Federal Locks U-systems (UCF/UCH/UCS/UUS)-3100 / Thirard Federal S / Thirard Federal 2](https://lpubelts.com/?id=f3666121)
 - [Bricard Chifral](https://lpubelts.com/?id=8f004bf0) (all versions, &lt;15 pins)
 - [Bricard Supersuret&eacute;](https://lpubelts.com/?id=98ba98ae)
-- [Burg W&auml;chter Alpha 800](https://lpubelts.com/?id=e38d015b)
 - [Capitol magnetic cam lock](https://lpubelts.com/?id=85591581)
-- [CAVEO TS007 Exterior](https://lpubelts.com/?id=0813d39e)
+- [CAVEO TS007](https://lpubelts.com/?id=0813d39e) (with spools)
 - [CEI &quot;Five Colors&quot;](https://lpubelts.com/?id=1f3a4b1d)
 - [Chubb Battleship](https://lpubelts.com/?id=1f3a8ff9) (6 lever, offset key)
 - [Chubb Biaxial](https://lpubelts.com/?id=d78ca1ba)
@@ -655,18 +660,19 @@ your lock in the picking video. Please read more below for filming requirements.
 - [Corbin Russwin Emhart](https://lpubelts.com/?id=71bce5b7) (4 pins)
 - [Corbin Russwin Master Ring](https://lpubelts.com/?id=50fd7a98) (***)
 - [DAF Kilit DBS02](https://lpubelts.com/?id=5e264777)
+- [DeGuard Interactive clone / HQ High Security interactive clone](https://lpubelts.com/?id=db4de1bb) (5 pins)
 - [Dierre New Power](https://lpubelts.com/?id=a10711cc)
 - [DOM ix 6 sr](https://lpubelts.com/?id=acde7f0c)
+- [DOM ix Teco](https://lpubelts.com/?id=90e4bcc1)
 - [DOM ix Twido](https://lpubelts.com/?id=fc4de1ff)
 - [DOM ix10](https://lpubelts.com/?id=7b05dccc) (without fins)
 - [Eagle &quot;Supr-Security&quot;](https://lpubelts.com/?id=e8901d1c) (without shutter)
 - [Elzett X11](https://lpubelts.com/?id=04a402d6)
 - [EVVA DPI / EVVA DPS / EVVA DPX / EVVA EPS](https://lpubelts.com/?id=8c2983b5) (slider version)
 - [Fichet 450](https://lpubelts.com/?id=93871dad) (no false gates)
-- [Gege pExtra](https://lpubelts.com/?id=4cd09b3b) (6-7 pin)
+- [Gege pExtra / Alfa &quot;pExtra&quot;](https://lpubelts.com/?id=4cd09b3b) (6-7 pin)
 - [Generic/Unknown 6 or 7 Lever lock](https://lpubelts.com/?id=a6a225e5)
 - [Godrej Ultra](https://lpubelts.com/?id=3fbd7b3d) (14 pins in 3 rows)
-- [HQ High Security interactive clone / DeGuard interactive clone](https://lpubelts.com/?id=db4de1bb) (5 pins)
 - [IFAM WX1000](https://lpubelts.com/?id=3b848976)
 - [IKON sk6 vectorprofil rib extra](https://lpubelts.com/?id=4ffe03a9) (5 sliders)
 - [Illinois Duo](https://lpubelts.com/?id=07bc680a)
@@ -674,7 +680,7 @@ your lock in the picking video. Please read more below for filming requirements.
 - [ISEO Perfecta](https://lpubelts.com/?id=6eab0c38) (****)
 - [ISEO R7](https://lpubelts.com/?id=30aa78ef)
 - [Kaba 8](https://lpubelts.com/?id=779d74f5) (3 row, &ge; 9 pins)
-- [Kaken KX3](https://lpubelts.com/?id=898a7138) (exterior, 6+ sliders)
+- [Kaken KX3](https://lpubelts.com/?id=898a7138) (exterior, &ge; 6 sliders)
 - [Kale Kilit 164 BNE](https://lpubelts.com/?id=6f5e0d32)
 - [Keso 10RS / Keso 2000S / Keso 4000S (Omega)](https://lpubelts.com/?id=304f5471)
 - [Kwikset Smartkey (Gen III)](https://lpubelts.com/?id=06ddb074)
@@ -692,21 +698,22 @@ your lock in the picking video. Please read more below for filming requirements.
 - [M&amp;C Matrix](https://lpubelts.com/?id=9aedb834)
 - [Magnum Atlantic](https://lpubelts.com/?id=c9fc823c)
 - [Master Lock #19](https://lpubelts.com/?id=8f7f1830)
-- [Medeco Original Camlock](https://lpubelts.com/?id=aeaa6a09) (5+ pins ******)
-- [Medeco Original / Medeco Biaxial / Medeco M3](https://lpubelts.com/?id=826c31e0) (5+ pins ******)
+- [Mauer Red Line GM](https://lpubelts.com/?id=0a70d67f)
+- [Medeco Original Camlock](https://lpubelts.com/?id=aeaa6a09) (&ge; 5 pins ******)
+- [Medeco Original / Medeco Biaxial / Medeco M3](https://lpubelts.com/?id=826c31e0) (&ge; 5 pins ******)
 - [Mindy Pagoda AF 16-50](https://lpubelts.com/?id=06a28ac7) (flat key)
 - [MIWA Magnetic Camlock](https://lpubelts.com/?id=58f2eac0)
 - [MLock](https://lpubelts.com/?id=278f2108)
 - [Mottura 3D Key](https://lpubelts.com/?id=0a2c7044)
 - [Mottura Champions C38](https://lpubelts.com/?id=62520bea) (*******)
 - [Mottura Viper](https://lpubelts.com/?id=8c76cc79)
-- [Mul-T-Lock Classic Pro](https://lpubelts.com/?id=fd2b533e)
-- [Mul-T-Lock Classic / Mul-T-Lock Interactive](https://lpubelts.com/?id=48323cde) (4 pins, serrated drivers)
-- [Mul-T-Lock Jr / Mul-T-Lock Classic / Mul-T-Lock Interactive](https://lpubelts.com/?id=3335df97) (5 pin stacks, 4+ spooled drivers, &lt;3 countermilled outer keypins)
+- [Mul-T-Lock Classic Pro / Mul-T-Lock 400](https://lpubelts.com/?id=fd2b533e)
+- [Mul-T-Lock Classic / Mul-T-Lock Interactive](https://lpubelts.com/?id=48323cde) (4 pins, 4 serrated drivers)
+- [Mul-T-Lock Jr / Mul-T-Lock Classic / Mul-T-Lock Interactive](https://lpubelts.com/?id=3335df97) (5 pin stacks, &ge; 4 spooled drivers)
 - [Mul-T-Lock MT5](https://lpubelts.com/?id=16906a6c)
 - [Mul-T-Lock Omega Plus](https://lpubelts.com/?id=8a65b956)
 - [Nagasawa Kodai KCY-31](https://lpubelts.com/?id=3efc97ad) (6 pin)
-- [Nemef NF2 / Nemef NF3 / Lips 8300](https://lpubelts.com/?id=94466c21)
+- [Nemef NF2 / Nemef NF3 / LIPS 8300](https://lpubelts.com/?id=94466c21)
 - [Nemef NF4](https://lpubelts.com/?id=4debdca1)
 - [Opnus TZ](https://lpubelts.com/?id=f8aaa0ef) (3 rows)
 - [Opnus UX](https://lpubelts.com/?id=ed3ae6cf)
@@ -716,11 +723,12 @@ your lock in the picking video. Please read more below for filming requirements.
 - [Ruko Combi 900](https://lpubelts.com/?id=6dd5a34b)
 - [Sargent Signature](https://lpubelts.com/?id=e1e595b9)
 - [Schlage Everest 29SL](https://lpubelts.com/?id=3dabf132)
+- [Securemme K22](https://lpubelts.com/?id=ccd19ba8)
 - [Securemme K5](https://lpubelts.com/?id=479f1d73)
 - [Sepa HDS](https://lpubelts.com/?id=e0a9caf4)
 - [TESA T80 / TESA TX80](https://lpubelts.com/?id=3f49ccc1)
 - [TESA TK100](https://lpubelts.com/?id=9a9ae8df)
-- [Titan T250](https://lpubelts.com/?id=e7f6d089)
+- [Titan T250 / Picard VTX / UCEM T200](https://lpubelts.com/?id=e7f6d089)
 - [U-Shin Showa X Key](https://lpubelts.com/?id=8307d77f) (12 pins)
 - [US Star Tech &quot;Hi Security&quot;](https://lpubelts.com/?id=b35bf986)
 - [Vachette Axi&apos;Home](https://lpubelts.com/?id=416946bc)
@@ -728,7 +736,7 @@ your lock in the picking video. Please read more below for filming requirements.
 - [WEST YKK AP](https://lpubelts.com/?id=1220174e)
 - [Western Electric 29A / Western Electric 29B](https://lpubelts.com/?id=5958a65b)
 - [Yale 5000](https://lpubelts.com/?id=1be10736)
-- [Yale Superior / Milencio Magnum](https://lpubelts.com/?id=ebe9ee59) (7 or 9 pins)
+- [Yale Superior / Yale Platinum / Milencio Magnum](https://lpubelts.com/?id=ebe9ee59) (7 or 9 pins)
 
 ** Must be picked to both operating and control in one take. Check the SFIC filming requirements in the [Reddit belt ranking page](https://www.reddit.com/r/lockpicking/wiki/beltranking/#wiki_sfic_filming_requirements). Exempt from rule regarding minimum master wafers
 
@@ -778,12 +786,13 @@ keypins, and countermilling are the norm for you.
 - [Aegis](https://lpubelts.com/?id=19fce24d) (18 pin, 3 rows all spools)
 - [Agent GMD-500](https://lpubelts.com/?id=db380ba0)
 - [Alke](https://lpubelts.com/?id=d8abe040)
+- [ALPHA ED](https://lpubelts.com/?id=05298f91) (cam lock)
 - [ALPHA FB](https://lpubelts.com/?id=054731a5) (&lt;15 pins)
 - [ALPHA YKK AP](https://lpubelts.com/?id=2c58f220)
-- [Anbo X18u / Lex X18 / GLK X18 / Apec XS](https://lpubelts.com/?id=f85f4ac0) (Clavis X18 clones)
+- [Anbo X18u / Lex X18 / GLK X18 / Apec XS](https://lpubelts.com/?id=f85f4ac0) (Clavis Q18 clones)
 - [Ankerslot Infinity K](https://lpubelts.com/?id=5329b0f3)
 - [ASSA 500 / Ruko 500](https://lpubelts.com/?id=f2d41749) (5 stacks of pins, gin drivers and matching countermilling)
-- [ASSA d12 / ASSA P600 / ASSA Neptun 1900 / TrioVing d12 level 1 (aka d13 no long pin)](https://lpubelts.com/?id=d3ad5a73) (barrel drivers, forked keypins)
+- [ASSA d12 / ASSA P600 / ASSA Neptun 1900 / Ruko Merkur / TrioVing d12 level 1 (aka d13 no long pin)](https://lpubelts.com/?id=d3ad5a73) (barrel drivers, forked keypins)
 - [ASSA Desmo](https://lpubelts.com/?id=1459e2c6) (8 sliders, no mastered pins)
 - [ASSA Twin Combi / ASSA 1800 / ASSA 4800](https://lpubelts.com/?id=fd7b514a) (barrel drivers, 2 or 3 finger pins)
 - [Australian Lock Co. BiLock](https://lpubelts.com/?id=9ed006d4) (12 sliders, 5-6 mastered)
@@ -792,6 +801,7 @@ keypins, and countermilling are the norm for you.
 - [BASI K10](https://lpubelts.com/?id=82ae66ad)
 - [BKS Multipin](https://lpubelts.com/?id=39bf479d)
 - [Bricard Chifral](https://lpubelts.com/?id=9b00fb5e) (all versions, fully pinned)
+- [Burg W&auml;chter Alpha 800](https://lpubelts.com/?id=e38d015b)
 - [Cavers Cavith](https://lpubelts.com/?id=de47d600)
 - [Clavis T-20](https://lpubelts.com/?id=f51e2ff2) (&lt;15 pins)
 - [Codkey Locksys](https://lpubelts.com/?id=bc03135a) (&ge;15 pins)
@@ -802,9 +812,9 @@ keypins, and countermilling are the norm for you.
 - [Eagle &quot;Supr-Security&quot; (with shutter)](https://lpubelts.com/?id=33588917)
 - [FAB Dynamic](https://lpubelts.com/?id=e0255299)
 - [Federal Lock 11KDCF3110](https://lpubelts.com/?id=e8150a27)
-- [Federal Lock UCF3100 / Federal Lock USC3100](https://lpubelts.com/?id=45c08407)
 - [Fichet 450 / Fichet 484](https://lpubelts.com/?id=58cbc037) (with false gates, 4-6 mastered levers)
 - [Fichet 666](https://lpubelts.com/?id=9c627ebd)
+- [Fichet-Bauche Monopole](https://lpubelts.com/?id=3bd433d7)
 - [FTH Thirard Cobra](https://lpubelts.com/?id=86e86a1d)
 - [Fuki Tierkey](https://lpubelts.com/?id=7298a640)
 - [Gege MRT](https://lpubelts.com/?id=b379e483)
@@ -816,6 +826,7 @@ keypins, and countermilling are the norm for you.
 - [iNAHO Tierkey](https://lpubelts.com/?id=9659ad59)
 - [Izis](https://lpubelts.com/?id=d64be6f7)
 - [JPM 405](https://lpubelts.com/?id=1ee01369)
+- [JPM Quartz UP](https://lpubelts.com/?id=5433316e)
 - [Kaba 14](https://lpubelts.com/?id=f61461ed) (&lt;13 pins)
 - [Kaba Ace](https://lpubelts.com/?id=41b91a0e) (&lt;13 pins)
 - [Kaba Gemini](https://lpubelts.com/?id=e0191c45) (&lt;13 pins)
@@ -834,13 +845,14 @@ keypins, and countermilling are the norm for you.
 - [MG Serrature HS](https://lpubelts.com/?id=540a14c0)
 - [MIWA EC](https://lpubelts.com/?id=f257bf77)
 - [MIWA PS / Tostem DN](https://lpubelts.com/?id=2bf9f60e) (&lt;7 unmastered wafers)
-- [Mul-T-Lock Classic / Mul-T-Lock Interactive](https://lpubelts.com/?id=5c5701d7) (5 pin stacks, Serrated drivers)
-- [Mul-T-Lock Classic / Mul-T-Lock Interactive](https://lpubelts.com/?id=0ae75ea0) (5 pin stacks, spooled inner drivers with 3+ counter milled outer keypins)
+- [Mul-T-Lock Classic / Mul-T-Lock Interactive](https://lpubelts.com/?id=5c5701d7) (5 pin stacks, 5 serrated drivers)
+- [Mul-T-Lock Interactive+](https://lpubelts.com/?id=0ae75ea0) (5 pin stacks, pinned to factory spec (spooled inner drivers, some counter milled outer keypins))
 - [Pollux 7](https://lpubelts.com/?id=cc5bbb68)
 - [Robur 2391 Safe Deposit Lock](https://lpubelts.com/?id=94ee12b7) (&lt;3 barrels or gins with matched milling)
 - [Schlage Primus / Schlage Everest Primus](https://lpubelts.com/?id=ea1afad0)
 - [Scorpion CX-5 / Marks High Security Lock](https://lpubelts.com/?id=626da374)
 - [Securemme Evo K64](https://lpubelts.com/?id=4403a73f)
+- [TESA T-10 / TESA T-12](https://lpubelts.com/?id=0bc03ee8)
 - [U-Shin Showa NX](https://lpubelts.com/?id=b91890bf) (&lt;13 pins)
 - [Vachette Radial NT / Vachette Radial NT+](https://lpubelts.com/?id=40e99be0) (&lt;13 pins)
 - [Van Lock](https://lpubelts.com/?id=506b242a)
@@ -887,10 +899,10 @@ as a mentor to folks at the blue, purple and brown belt levels.
 - [ABUS EC700 / ABUS EC800](https://lpubelts.com/?id=b29a8b44)
 - [ABUS Plus](https://lpubelts.com/?id=b8350901) (with butterfly discs)
 - [ALPHA FB](https://lpubelts.com/?id=4223eb26) (&ge;15 pins)
-- [ASSA 600](https://lpubelts.com/?id=29ab2852) (6 pin, with gin spools and matched countermilling)
-- [ASSA 700](https://lpubelts.com/?id=e3bd3faf) (7 pin, with gin/tree pins and matching countermilling in 4+ chambers, &lt; 2 tree pins)
-- [ASSA 700](https://lpubelts.com/?id=ef4e0295) (with gin drivers and matched sleeve)
-- [ASSA dp2400 / ASSA dp10](https://lpubelts.com/?id=75fb1e5c) (6 pin 4 slider)
+- [ASSA 600 / Ruko 600](https://lpubelts.com/?id=29ab2852) (6 pin, with gin spools and matched countermilling)
+- [ASSA 700](https://lpubelts.com/?id=e3bd3faf) (7 pin, with gin/tree pins and matching countermilling in &ge; 4 chambers, &lt; 2 tree pins)
+- [ASSA 700 / Ruko 700](https://lpubelts.com/?id=ef4e0295) (with gin drivers and matched sleeve)
+- [ASSA dp2400 / ASSA dp10 / Trioving System 10](https://lpubelts.com/?id=75fb1e5c) (6 pin 4 slider)
 - [Australian Lock Co. BiLock](https://lpubelts.com/?id=5b60be8a) (12 sliders, 3-4 mastered)
 - [Banham m2002](https://lpubelts.com/?id=9eb3e9c4)
 - [BKS Janus](https://lpubelts.com/?id=3af2407a) (&lt; 14 pins)
@@ -927,20 +939,21 @@ as a mentor to folks at the blue, purple and brown belt levels.
 - [MIWA E6 / MIWA 83EC](https://lpubelts.com/?id=9094ca58)
 - [MIWA PR](https://lpubelts.com/?id=fdb68dc4) (&lt;7 unmastered levers)
 - [MIWA PS / Tostem DN](https://lpubelts.com/?id=550a0c9d) (7-8 unmastered levers)
-- [MIWA U9 / MIWA UR](https://lpubelts.com/?id=31431c49) (&lt;8 unmastered levers)
+- [Miwa SR](https://lpubelts.com/?id=31cd85d7)
+- [MIWA U9 / MIWA UR](https://lpubelts.com/?id=31431c49) (&lt;8 unmastered levers, barred false gates (old shallow false gates counts as Brown Belt))
 - [MIWA/Anker 3800](https://lpubelts.com/?id=cc8cfd45)
 - [Mottura 52](https://lpubelts.com/?id=5e090448) (7 lever)
 - [Mottura Champions C55](https://lpubelts.com/?id=3daff112)
 - [Picard Vigie / Heracles Vigie](https://lpubelts.com/?id=9c5f4539)
-- [Robur 2391 Safe Deposit Lock](https://lpubelts.com/?id=9da7a5f2) (barrels 3+ chambers with matched milling)
-- [Robur 2391 Safe Deposit Lock](https://lpubelts.com/?id=112d0034) (gins 3+ chambers with matched milling)
+- [Robur 2391 Safe Deposit Lock](https://lpubelts.com/?id=9da7a5f2) (barrels &ge; 3 chambers with matched milling)
+- [Robur 2391 Safe Deposit Lock](https://lpubelts.com/?id=112d0034) (gins &ge; 3 chambers with matched milling)
 - [Rosengrens 32A / Rosengrens 32A8](https://lpubelts.com/?id=4a7db3c6) (thin round center posts, few or no false gates)
 - [S&amp;G 4544 / S&amp;G 4440 series](https://lpubelts.com/?id=2ff8a738)
 - [Schlage Everest 29 SL Primus XP](https://lpubelts.com/?id=cf76cfde)
 - [S&eacute;mag Euromag](https://lpubelts.com/?id=80b0044b)
 - [Tann](https://lpubelts.com/?id=b5df156e) (10 lever)
 - [Tann Detector / Chubb Detector from 1950&apos;s](https://lpubelts.com/?id=69668831)
-- [U-Shin Showa NX](https://lpubelts.com/?id=95281228) (&ge;13 pins)
+- [U-Shin Showa NX](https://lpubelts.com/?id=95281228) (&ge; 13 pins)
 - [Vachette Axi&apos;Tec](https://lpubelts.com/?id=17d41d80)
 - [Vachette Radial NT / Vachette Radial NT+](https://lpubelts.com/?id=4db59eb3) (&lt;18 pins)
 - [Winkhaus X-Tra](https://lpubelts.com/?id=131732a0) (9-13 pins)
@@ -1029,11 +1042,11 @@ Examples of "Master's Projects":
 - [Abloy Protec2](https://lpubelts.com/?id=e87f0ca2)
 - [Abloy Sento](https://lpubelts.com/?id=cad3eff0)
 - [Abloy Sentry](https://lpubelts.com/?id=2ae6a691)
-- [ASSA 700](https://lpubelts.com/?id=f133510b) (gin/tree pins and matching countermilling in 4+ chambers, &ge; 2 tree pins)
+- [ASSA 700](https://lpubelts.com/?id=f133510b) (gin/tree pins and matching countermilling in &ge; 4 chambers, &ge; 2 tree pins)
 - [ASSA dp4400 / ASSA dp11 / TrioVing dp / Ruko Garant+](https://lpubelts.com/?id=6e59ba12) (6 pin with 10 sliders)
 - [ASSA Twin 6000](https://lpubelts.com/?id=104776ef) (gin drivers, 6 stacks with 5 side pins)
 - [ASSA Twin Combi](https://lpubelts.com/?id=fb51b475) (with gin drivers)
-- [ASSA Twin Combi / ASSA Triton / ASSA Neptun 4900 / TrioVing System 10 / TrioVing Twin Control](https://lpubelts.com/?id=7168d463) (6 pin with 5 finger pins)
+- [ASSA Twin Combi / ASSA Triton / ASSA Neptun 4900 / TrioVing Twin Control](https://lpubelts.com/?id=7168d463) (6 pin with 5 finger pins)
 - [ASSA Twin Exclusive 5700 (Baltic)](https://lpubelts.com/?id=f7ad4c89) (6 pin with 5 side pins with 4 possible heights each)
 - [ASSA Twin Exclusive / ASSA Twin 6000](https://lpubelts.com/?id=55053299) (6 barrel drivers, 5 side pins)
 - [ASSA Twin Maximum / ASSA Twin Pro / ASSA Twin v10 / ASSA Twin 2 / ASSA Twin Global](https://lpubelts.com/?id=3f73d2ce) (barrel driver, 6 stacks with 5 side pins)
@@ -1050,8 +1063,8 @@ Examples of "Master's Projects":
 - [Clavis F-22](https://lpubelts.com/?id=234a8ca8)
 - [Clavis Q-18](https://lpubelts.com/?id=7ea33803)
 - [Clavis T-20](https://lpubelts.com/?id=48cf387f) (20 pins)
-- [Corbin Russwin Emhart](https://lpubelts.com/?id=c266d57b) (2+ mastered chambers **)
-- [DOM Diamant](https://lpubelts.com/?id=57fbcb1b)
+- [Corbin Russwin Emhart](https://lpubelts.com/?id=c266d57b) (&ge; 2 mastered chambers **)
+- [DOM Diamant](https://lpubelts.com/?id=57fbcb1b) (With sprung rear disc)
 - [DOM ix Twinstar](https://lpubelts.com/?id=3c73c705)
 - [EVVA 3KS / EVVA 3KS+](https://lpubelts.com/?id=f7452b9f) (with false gates and no mastered sliders)
 - [EVVA Dual](https://lpubelts.com/?id=1e197456) (1-4 mastered elements)
@@ -1067,19 +1080,20 @@ Examples of "Master's Projects":
 - [GOAL Grand V](https://lpubelts.com/?id=3ca098da)
 - [GOAL V18 / GOAL GP](https://lpubelts.com/?id=63b2e02b) (14-16 pins)
 - [GOAL V18 / GOAL GP](https://lpubelts.com/?id=109531f4) (&ge;17 pins)
-- [GOAL Z](https://lpubelts.com/?id=5103e650) (&lt;2 standard drivers)
+- [GOAL Z](https://lpubelts.com/?id=5103e650) (&lt; 2 standard drivers)
 - [Hori Trident](https://lpubelts.com/?id=e8c7dd5b) (T-spool drivers)
 - [IKON SK6 Sperrwelle Extra Code](https://lpubelts.com/?id=108549ba) (6 pin with 5 finger pins)
 - [IKON WSW](https://lpubelts.com/?id=7e967792) (5 sliders)
 - [IKON WSW](https://lpubelts.com/?id=c9494ee8) (7 sliders, upgrade of WSW with 5 sliders)
 - [JPM Surf / Ruko Combi Plus](https://lpubelts.com/?id=0082fa4c) (6 pin with 5 side pins with 3 possible heights each)
-- [Kaba 20 / MIWA JN / Kaba Star](https://lpubelts.com/?id=8f99236e) (4 directions, 15+ pins)
+- [Kaba 20 / MIWA JN / Kaba Star](https://lpubelts.com/?id=8f99236e) (4 directions, &ge; 15 pins)
+- [Kaba Matrix](https://lpubelts.com/?id=7d5c53c4) (16 pins (fully pinned))
 - [Kaba Penta](https://lpubelts.com/?id=68b5a797) (15-20 pins)
 - [Kaba Penta](https://lpubelts.com/?id=bc1509f5) (21 or more pins)
 - [Kaba Quattro / Kaba experT](https://lpubelts.com/?id=f7b52501) (15-20 pins)
 - [Kaba Quattro / Kaba experT](https://lpubelts.com/?id=10968d37) (21 pins)
-- [Kaba Star](https://lpubelts.com/?id=3ddfc71c) (5+ rows, 16-20 pins)
-- [Kaba Star](https://lpubelts.com/?id=dfa88b94) (5+ rows, 21 or more pins)
+- [Kaba Star](https://lpubelts.com/?id=3ddfc71c) (&ge; 5 rows, 16-20 pins)
+- [Kaba Star](https://lpubelts.com/?id=dfa88b94) (&ge; 5 rows, 21 or more pins)
 - [Kromer Protector (BP55K)](https://lpubelts.com/?id=f87db705)
 - [Kromer Protector (Non-BP55K)](https://lpubelts.com/?id=50a463eb)
 - [Lockman Megacross](https://lpubelts.com/?id=f1857cef) (with pyramid drivers (SP?))
@@ -1087,8 +1101,8 @@ Examples of "Master's Projects":
 - [MIWA PR](https://lpubelts.com/?id=d0c510c5) (7-8 unmastered elements)
 - [MIWA PR](https://lpubelts.com/?id=21b61a85) (9-10 unmastered elements)
 - [MIWA PR](https://lpubelts.com/?id=91f40022) (11 unmastered elements)
-- [MIWA U9](https://lpubelts.com/?id=71c7270b) (8 unmastered elements)
-- [MIWA U9](https://lpubelts.com/?id=d1272b9f) (9 unmastered elements)
+- [MIWA U9](https://lpubelts.com/?id=71c7270b) (8 unmastered elements, barred false gates (old shallow false gates counts as Red Belt))
+- [MIWA U9](https://lpubelts.com/?id=d1272b9f) (9 unmastered elements, barred false gates (old shallow false gates counts as BB1))
 - [Mottura Champions C43 / Mottura Champions C44 / Mottura Champions C48](https://lpubelts.com/?id=ae7d3780)
 - [Mul-T-Lock MT5+ / Mul-T-Lock 800 / Lockwood MT5 / IKON R10](https://lpubelts.com/?id=649eaebc) (not mastered)
 - [NATO Mersey](https://lpubelts.com/?id=4f2ed774) (10 lever, pre-1973)
@@ -1102,7 +1116,7 @@ Examples of "Master's Projects":
 - [Tokoz Pro](https://lpubelts.com/?id=3198fffc)
 - [UrbanAlps Stealth Key SK1](https://lpubelts.com/?id=e4bb0668)
 - [UrbanAlps Stealth Key SK2](https://lpubelts.com/?id=284bf0b0)
-- [Vachette Radial NT / Vachette Radial NT+](https://lpubelts.com/?id=5def87d0) (18+ pins)
+- [Vachette Radial NT / Vachette Radial NT+](https://lpubelts.com/?id=5def87d0) (&ge; 18 pins)
 - [WEST 917](https://lpubelts.com/?id=23437955)
 - [Western Electric 30B](https://lpubelts.com/?id=e718b140)
 - [Western Electric 30C](https://lpubelts.com/?id=5a4310d5)
@@ -1114,59 +1128,79 @@ Examples of "Master's Projects":
 
 ---
 
-### Recent Changes: September&ndash;November, 2023
+### Recent Changes: December 2023&ndash;March 2024
 
 **New Additions**
 
-* **Alpha 1000 - up to 35mm (White)**
-* **Alpha 1000 - 40-45mm (Yellow)**
-* **Alpha 1000 - 50mm or larger (Orange)** These Alphas seem to be as basic as they come, pretty locks nonetheless, and nice additions to the bottom of our rankings.
-* **GLK 60G50 (50mm padlock) (Yellow)** A very basic padlock with meh tolerances. Made in Portugal.
-* **GLK G10 (Yellow)** I do think this one is a bit underranked here, but it's a pretty weird 10 pin dimple lock overall that shouldn't be much trouble for most pickers.
-* **IFAM Start 50 Padlock (Yellow)** Same as the GLK padlock, except Made in Spain. Which means, not at all alike - and don't you dare say they are the same!!
-* **Cisa 220/50 (Orange)** Nice cool padlock with spools, good challenge for those learning to pick them, deserves being at Orange.
-* **FAB Control (Orange)** Although it does have a pretty suprise inside, it's not harder to pick than a normal orange lock. Tricky but doable keyway.
-* **ABUS Magtec 1500 (Green)** Orange belt lock requiring a magnet pick, or at least a magnet to be pushed into place. Interesting mechanism, but easy to take care of.
-* **American Lock 1160 (Green)** We wondered if an extra pin stack would make an 1100 harder to pick. So we worked day and night to figure that out. Well, apparently, they are not harder enough to pick to rank it blue. Waste of time, really.
-* **An Jia Bao / HPP / Ming Gao disc detainer padlock (Green)** This group is much bigger than the names defined here. In reality, any padlock with the same type of keybow could probably get in this group. They are all made the same way. They are hundreds...
-* **CCL Sesamee 900 series (Green)** an American 1100 clone with some interesting internals, looks very cool. Gotta get one of those one day. _Looks at wallet._ Damn.
-* **Cisa 285 (Green)** Keyway is nasty. But that's about it. Good tolerances, nice spools, makes it a strong Green. And it's a very nice looking and guttable padlock too.
-* **D&eacute;ny 3 lever, Trap door (Green)** Don't know much about it, except you got a trap door, so you need to get through it to pick at the levers. Despite that it looks like it's easy enough to pick. Leave it to the French to make it complicated in all the wrong places.
-* **Digby Lock and Tool Bravo (Green)** First time a limited run lock made by one of our own enters the lock ranks. The incredible tolerances make it pretty challenging even with fairly simple pinning. Don't be fooled, that's a dark green lock. If it were up to me it would be higher ranked. _There, I said it, I'll be expecting my free Bravo next month, Digs_
-* **FJM Padlock (Green)** A disc detainer padlock that might be one of the best beginner choices when it comes to this locking mechanism. And looks pretty good too!
-* **Unity Disc Detainer Padlock (Green)** Another great beginners' lock for disc detainer practice.
-* **Yale 1000, Yale 1500 (Green)** Tapered is the word of this one. Shouldn't be much of a problem for an experienced picker but might be a patience tester for a dimple beginner.
-* **Dejo 7 pin (tapered spools, trees, no milling) (Blue)** How this ASSA 700 clone manages to be so annoying without milling, I don't know. But the truth is, it's good enough to reach Blue Belt.
-* **Dorma DC4300 (AKA Miller's Dorma), Elite DC4300 (Blue)** Similar to Dorma DC3003, but 6 pins instead of 7. Another Dorma that has trouble knowing if it wants to be an ASSA or a Gege.
-* **IKON RW6 (Blue)** Once you get through the lockpicker-designed keyway, the tapered driver pins might cause you some trouble, but not too much.
-* **Yale 2100 (Blue)** You know about Yale Superior? Imagine much better feedback on just 6 pin stacks.
-* **ABA Pagoda (Purple)** One of those pagoda locks that works by pushing discs at different heights... Don't even know what to call that mechanism... Weird but cool.
-* **Godrej Ultra (14 pins in 3 rows) (Purple)** 14 pins of Indian fun. Another one for the wishlist (nobody tell my wife!)
-* **Mindy Pagoda AF 16 (flat key) (Purple)** similar to the ABA pagoda, but usually in an unguttable padlock. Same mechanism probably available in other Chinese brands too.
-* **Mottura 3D Key (Purple)** It was time this one got in the belt list, it might be expensive AF but it is also weird AF, so it had to be here. Apparently it's not as hard as it looks, but what a nice looking lock and key.
-* **Securemme EVO K64 (Brown)** This one looks like a missed opportunity, as the reverse sidebar doesn't work as well as it could. Bad springs and tolerances make the sidebar ineffective.
-* **Bramah bp17 (Red)** A lock with plenty of history behind it, I should get my hands on one too. The technique to pick this one matters a lot, and if it isn't right it will be much harder.
-* **Western Electric 30B (Bb5)** You remember Western Electric 30C? Same, but not the same. You get it.
+- **Yale Y120 series brass padlocks all formats** (ORANGE) Nice spools and fun pick, if not super difficult.
+
+- **Brady Safekey** (GREEN) This weird looking LOTO will need some inventiveness to tension, and uses some pump action as a security feature. Not as hard as it might look at first, but the lack of false gates makes it much easier than it could have been.
+
+- **Viro Palladium PV** (GREEN) This Italian dimple + slider lock’s main challenge is the main stack. The sliders, they occasionally set themselves. Could have used a bit more security features.
+
+- **Solon Super-Lock Company Nix Pix** (GREEN) A classic, American made pump lock, reminding us of the Bramah lock of old, is a small fun challenge for those wanting to adventure into the world of slider pump locks. Good luck finding one (for an affordable price)!
+
+- **ABUS GDS tree version** (GREEN) ABUS response to ASSA, using tree pins, but instead of countermilling, they decided to… overmill? I mean, straight flat top overmill?? Cheesus… no wonder it’s just green belt!
+
+- **ABUS GDS barrel version** (BLUE) Well this was a surprise, after all not all GDS are created equal, and some use “ASSA” barrel drivers. Same overmilling nonsense, but seems in this case, barrels make it more challenging… a bit.
+
+- **Alpha "Z" cam lock** (BLUE) A tiny dimple cam lock from the known Japanese brand, cute key and fair challenge.
+
+- **DOM IX Teco** (PURPLE) Looks like the Plura turned sideways, with some nipple pins for your pleasure… or not.
+
+- **JPM Quartz UP** (BROWN) Nearly the same pinning as a TESA TX80, but as one of the pickers put it, “what a TESA TX80 wishes it could be”. Frenchies 1: Spaniards 0
+
+- **TESA T-10 / T-12** (BROWN) This was a tough delivery. Similar to a Kale Kilit BNE or an ABUS EC700, with the main stack oversetting a row of opposing pins, and lots of tapered action, it seems to sit between those two examples, at least in difficulty.
+
+- **Alpha ED** cam lock, 14 pins in 4 directions, standard and mushroom drivers (BROWN) Another Alpha cam, this time, the engineers thought “let’s make it like an Alpha FB, but tiny”. Crazy Japanese lockmakers…
+
+- **Fichet-Bauche Monopole** (BROWN) Hey look who it is! Our favourite French ~~asshole~~ lock! Very appropriate, as it will literally give you shit!
+
+- **MIWA SR** (RED) Another MIWA for the list, this time a wafeeeeessssliiiidd… uhhhh… something with a sidebar lock? Yeah, those guys make crazy stuff, but the lock looks awesome! (want one!)
+
+- **KABA Matrix** (BB1) So this is a weird one, as many pickers have confirmed it should be identical to Gemini, being an apparent upgrade, but somehow it’s harder to pick. Took a bunch of people confirming that to avoid it being samelined to the Gemini. Let’s see if it keeps that way.
+
 
 
 **Upgrades**
 
-* **Mottura Champions C43,C44,C48 (Red -> Black Belt 1)** Well, well, well. Look who's back to Black Belt after all...
-* **WEST 917 (Black Belt 1 -> Black Belt 2)** Seems like we needed to whole of Dojo to rise up for this to happen. Or nearly all of it.
+- **Securemme K22** – upgraded to PURPLE - nasty feedback, #$%§y small pins… It’s not super hard to pick, but you can pick it once and spend hours trying to pick it again and can’t understand why you can’t feel anything.
 
-**Downgrades**
+- **Mauer Red Line GM** - upgraded to PURPLE - Need a long tool for this big boi. If you got short tool, you can wiggle around all you want but you won’t get the final satisfaction… of picking it open.
 
-* **Brinks Weatherproof 44mm laminated padlock (Orange -> Yellow)** Renamed to Brinks Laminated Padlock (with or without Weatherproof) - Looks like all Brinks laminated are the same, so let them be the same... as yellow belts.
-* **Fontaine (Purple -> Blue)** The reign of the overranked french pump locks is over.
-* **Bowley Door Lock (Black Belt 2 -> Black Belt 1)** Are you really surprised by this drop? I mean... really?
-* **Walsall 2000 (Black Belt 1 -> Brown)** Yeah... that's, uh, a big drop....
+- **Burg Wächter Alpha 800** - upgraded to BROWN - This is probably BW’s best padlock, heavy, strong and with a very pick resistant wafer mechanism?… Oh yeah, and the core is split. In half. Through the middle. Like, you tension it from one side and one half splits to the left and another to the right, making nearly impossible to get any feedback that way. Hope you have a y-wrench for this one.
 
-**Sameline**
 
-* **Lips 8300** Added and samelined with Nemef NF2 - they are nearly the same lock, extra checkpin or no.
-* **Lockwood 215A40 and 214A40** Added and samelined with 334B40 - same core, same lock
-* **Lockwood 356S63, 270S70** Samelined with 334B40 (see previous.)
 
+**Description Changes and Samelinings**
+
+- **Yale Y110/40** changed to **Y110 series brass padlocks all formats** 40mm or larger (includes Y113 and Y114, excludes iron body disc detainer Y112) - looks like all have the same pinning. Fun spoolly action!
+
+- Samelining **RUKO 700 sleeved** to **ASSA 700 sleeved** - but remember, only on full moon nights on the 30th day of the second month between midnight and 1:00 GMT. Else, Ruko will be impossible.
+
+- Samelining **RUKO MERKUR** to **ASSA P600** - meh, they are both impossible, but Ruko is more impossible, of course.
+
+- Samelining **UCEM T200** and **Picard VTX** with **Titan T250** - Adding the UCEM and Picard versions to the existing ranked Tital. They all look similar enough to don’t matter the difference. Pretty fun pick with unsprung sliders.
+
+- Samelining **Alfa "pExtra"** with **Gege pExtra**, **Alfa "AP1000"**, and **Gege AP1000** (Alfa models unknown, plug millings and pinnings equivalent are to be samelined) - Alfa seem to be a variant brand of Gege, that is sold in Scandinavian countries. Often pinned very similar to Gege, as long as they are pinned the same as the original Gege AP1000 and pExtra, and have the same style of keyways and milling, they will count as such.
+
+- Samelining **Avocet ABS*** with ranked **Federal Locks** and **Thirard Federal S and 2** (Federal U-systems (UCF/UCH/UCS/UUS)-3100, Thirard Federal S, Thirard Federal 2) - When we found out that Federal made Avocet ABS and the Thirard equivalents, finding all the other Federal locks that are exactly the same brought us a pretty impressive list. It’s worth it, some of these are more common than others, and it’s a pretty cool pick.
+
+- Samelining **Yale Platinum** with **Yale Superior** - just a formality. Y’all knew this already… I assume.
+
+- **Mul-T-Lock Classic and Interactive** will be changed to:
+    - MTL Classic/Jr/Interactive w/4 or more spools - purple
+    - MTL Classic/Interactive w/4 or more serrated drivers - brown
+    - MTL Interactive plus pinned to factory spec (includes the countermilled outer keypins and spooled inner drivers) - brown
+    - MTL400 / Classic Pro (includes the countermilled outer keypins and spooled inner drivers) - purple
+    - So to simplify: no need to count and show outer keypin countermilling; MTL interactive plus will for now count as brown belt if pinned to factory specifications, even if they don’t agree with the previous count of milled pins. MTL interactive (no plus), Jr. or Classic with spools will count as blue or purple depending on number of spools. Simpler, eh? …. No?.... well…. _changes subject_
+
+- **Caveo** description changed to "all standards" or "with spools" - Apparently some interior CAVEO have spools, so, this way will be a better way to define them.
+
+- Adding **T65AL** as additional denomination for **Abus MyLock** - Some locks have multiple names, and Abus smartass name-givers decided some of these padlocks would have “myLock” as a main name, but others would just have the model number as designation. This will prevent confusion.
+
+- **Miwa U9** added in version "with barred false gates (old shallow false gates equals a belt below)"
+  Let’s see how we’re going to check this, but looks like a good camera will be needed for anyone wanting some more Dan points…
 
 ---
 
@@ -1250,7 +1284,7 @@ Q: **Are there any more goals to work towards after achieving black belt?**
 
 > A: Yep! We have an entirely separate rule system for earning stripes after you've achieved black. It takes into
 account everything you've done throughout your lockpicking career, so we advise you don't delete any of your videos from
-the internet. Check it out [here](https://docs.google.com/document/d/1w33AkXvtXb0QbfvLrnlGqAWgj9SK2RKEndcB6AMtE9c).
+the internet. Check it out [here](/#/dans).
 
 ----------
 
